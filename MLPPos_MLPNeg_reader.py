@@ -4,7 +4,7 @@
 import h5py
 import numpy as np
 
-file_path = r"C:\Users\moham\LIINES Dropbox\Mehdi Naderi\C4-Meg-Convergent-SoS-Anthems\2-MehdiNaderi\liines-python-hfgt-toolbox-V4.4.0\liines-python-hfgt-toolbox-V4.4.0\1_Output_Data\myLFES-Full-EIO-Default-Base-2.hdf5"
+file_path = r"XXXXXXXXXXXXXXXXXXXXXXXXX"
 
 
 def reconstruct_matrix(coords, data, shape):
@@ -44,3 +44,4 @@ with h5py.File(file_path, 'r') as f:
 
     diff_system = mlp_pos_system - mlp_neg_system
     print("\n(MLPPos - MLPNeg) (System Process):\n", diff_system)
+
