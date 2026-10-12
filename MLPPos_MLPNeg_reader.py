@@ -4,6 +4,7 @@
 import h5py
 import numpy as np
 
+# Set file_path to the HDF5 output file produced by the HFGT toolbox (e.g. "output.h5")
 file_path = r"XXXXXXXXXXXXXXXXXXXXXXXXX"
 
 
