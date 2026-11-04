@@ -120,13 +120,15 @@ This is a static, single-period, synthetic case study with one economic system. 
 If you use this code, please cite the paper:
 
 ```bibtex
-@article{10.1016/j.jclepro.2026.149798,
+@article{naderi2026monolake,
   title   = {Toward a Unified Modeling Approach to Coupled Human-Natural Systems: Integrating Economic Input-Output Models into MBSE-HFGT},
-  author  = {M. M. Naderi, Megan Harris, John Little and Amro Farid},
+  author  = {Mehdi Naderi, Megan Harris, John Little and Amro Farid},
   journal = {Journal of Cleaner Production},
   year    = {2026},
-  note    = {Under review}
+  doi     = {10.1016/j.jclepro.2026.149798},
+  url     = {https://www.sciencedirect.com/science/article/pii/S1364815226003063}
 }
+
 ```
 
 ## Acknowledgments
